@@ -5,7 +5,7 @@ function nukeunit(pawn)
 
   local action_data = {}
   action_data.variant = "explosion"
-  action_data.damage = 6000
+  action_data.damage = 16000
   action_data.attacker_unit = managers.player:player_unit()
   action_data.col_ray = col_ray
 

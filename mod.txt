@@ -1,0 +1,16 @@
+{
+  "name" : "nukem",
+  "description" : "nukem",
+  "author" : "pinchedloaf",
+  "contact" : "pinchedloafs@gmail.com",
+  "version" : "0.1",
+  "keybinds" : [{
+    "keybind_id" : "nukem",
+    "name" : "Nuke 'em",
+    "description" : "Nuke all enemies on screen",
+    "script_path" : "nukem.lua",
+    "run_in_menu" : false,
+    "run_in_game" : true,
+    "localized" : false
+  }]
+}

@@ -4,13 +4,14 @@ Payday 2 mod to nuke all enemies on map.
 
 Requires
 --------
-IPHLPAPI.dll, v.3.2.0 2015-07-15:1121 version (included).
-- Original Author: sirgoodsmoke
+BLT 1.07 (r11_r5)
+- https://github.com/JamesWilko/Payday-2-BLT/releases/tag/1.07
 
 Installation
 ------------
-Just copy to pd2 directory. Press F5 to kill all spawned enemies.
+- Copy to mods directory after setting up BLT.
+- Setup hotkeys for BLT.
 
 Notes
 -----
-Payday 2, Update 71 (2015-07-16)
+Payday 2, Update 93+ (2015-12-18)
